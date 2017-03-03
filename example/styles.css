@@ -1,0 +1,24 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+a {
+    color: red;
+    text-decoration: none !important;
+    border: solid;
+    border-color: white;
+    transition: 1s;
+}
+a:hover {
+    border-color: royalblue;
+    transition: 1s;
+}
+.spacer{
+    border-bottom: dotted;
+    border-bottom-color: #cccccc;
+    margin: 15px;
+}
