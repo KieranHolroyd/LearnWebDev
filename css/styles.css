@@ -47,3 +47,6 @@ img:hover{
     border-bottom: solid;
     border-bottom-color: red;
 }
+.example p{
+    background-color: #99b2ff;
+}
